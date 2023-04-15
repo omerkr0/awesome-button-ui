@@ -1,4 +1,4 @@
-.test {
+._3ybTi {
     margin: 2em;
     padding: 0.5em;
     border: 2px solid #000;
@@ -6,8 +6,9 @@
     text-align: center;
   }
   
-  button.btn {
-    appearance: none;
+  button._1Pz2d {
+    -moz-appearance: none;
+         appearance: none;
     -webkit-appearance: none;
     font-family: monospace;
     font-size: 15px;
@@ -22,48 +23,48 @@
   }
   
   
-  button.btn:hover{
+  button._1Pz2d:hover{
     opacity: 0.8;
   }
   
-  button.primary {
+  button._3ljpl {
     background: linear-gradient(25deg, #003cff 40%, #1E90FF 70%, #0057f8 100%);
     color: #ffffff;
   }
   
-  button.primary:hover{
+  button._3ljpl:hover{
     background: linear-gradient(25deg, #2df7e6 10%, #6ce9ff 70%, #2df0f7 100%);
   }
   
-  button.default {
+  button._3UK6o {
     background-color: #2d3af7;
     color: #ffffff;
   }
   
-  button.default:hover{
+  button._3UK6o:hover{
     background: linear-gradient(25deg, #2d4bf7 10%, #6ca7ff 70%, #2dd9f7 100%);
   }
   
-  button.dashed {
+  button._27xYC {
     border: 2px dashed black;
     color: black;
     background-color: inherit;
     transition: border-color 0.5s ease;
   }
   
-  button.dashed:hover{
+  button._27xYC:hover{
     border-color: #f72d2d;
   }
   
-  button.text {
+  button._5bXm4 {
     font-weight: bold;
   }
   
-  button.text:hover {
+  button._5bXm4:hover {
     box-shadow: 0 0 10px #4d4f4fc3;
   }
   
-  button.link {
+  button._71S8l {
     font-weight: bold;
     text-decoration: underline;
     color: #1E90FF;
